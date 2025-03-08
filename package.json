@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://loghul1722.github.io/task-front/",
+  "homepage": "https://loghul1722.github.io/task-host/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
